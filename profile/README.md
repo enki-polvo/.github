@@ -2,7 +2,9 @@
 
 > So that anyone can detect cyber threats...
 
-![image](https://github.com/user-attachments/assets/7d0ddbd0-02ff-410e-9f13-efbf0cdcf855)
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/7d0ddbd0-02ff-410e-9f13-efbf0cdcf855" alt="project-mascot" style="width:300px;"/>
+</p>
 
 Polvo Project is a lite agent that focuses on reducing security officer fatigue.
 
